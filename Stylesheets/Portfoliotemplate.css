@@ -280,3 +280,14 @@ a:link{
 }
 
 
+
+
+
+.vicky{
+  color: aqua;
+  font-size: large;
+  font-weight: bolder;
+}
+.vicky span{
+  color: red;
+}
